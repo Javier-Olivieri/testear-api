@@ -1,0 +1,70 @@
+{"level":"error","message":"ContenedorMongoDB-getById(). Error: CastError: Cast to ObjectId failed for value \"62c60717905ec01eaf881b3\" (type string) at path \"_id\" for model \"productos\""}
+{"level":"error","message":"Producto no encontrado."}
+{"level":"error","message":"Login: Credenciales incorrectas"}
+{"level":"error","message":"Login: Credenciales incorrectas"}
+{"level":"error","message":"EmailSender: error al enviar email: Error: ENOENT: no such file or directory, open 'C:\\Users\\ale_m\\OneDrive\\Documents\\Coderhouse\\Backend\\Entregables\\trabajo-final\\perro.jpg'"}
+{"level":"error","message":"Sessionstatus: Error al obtener el status de autenticación. Error: ReferenceError: next is not defined"}
+{"level":"error","message":"Logout: Error al desloguearse. Error: TypeError: Cannot read properties of undefined (reading 'email')"}
+{"level":"error","message":"Logout: Error al desloguearse. Error: TypeError: Cannot read properties of undefined (reading 'email')"}
+{"level":"error","message":"Logout: Error al desloguearse. Error: TypeError: Cannot read properties of undefined (reading 'email')"}
+{"level":"error","message":"Logout: Error al desloguearse. Error: TypeError: Cannot read properties of undefined (reading 'email')"}
+{"level":"error","message":"Logout: Error al desloguearse. Error: TypeError: Cannot read properties of undefined (reading 'email')"}
+{"level":"error","message":"ContenedorMongoDB-getById(). Error: CastError: Cast to ObjectId failed for value \"62c60717905ec01eaf881b3af\" (type string) at path \"_id\" for model \"productos\""}
+{"level":"error","message":"Producto no encontrado."}
+{"level":"error","message":"Producto no encontrado."}
+{"level":"error","message":"No se pudo agregar al carrito. Producto no encontrado."}
+{"level":"error","message":"Error al agregar producto al carrito: ReferenceError: cartId is not defined"}
+{"level":"error","message":"Error al agregar producto al carrito: ReferenceError: cartId is not defined"}
+{"level":"error","message":"No se pudo eliminar del carrito. Producto no encontrado."}
+{"level":"error","message":"No se pudo eliminar del carrito. Producto no encontrado."}
+{"level":"error","message":"Login: Credenciales incorrectas"}
+{"level":"error","message":"Producto no encontrado."}
+{"level":"error","message":"Producto no encontrado."}
+{"level":"error","message":"Producto no encontrado."}
+{"level":"error","message":"Producto no encontrado."}
+{"level":"error","message":"No se pudieron obtener los productos. Carrito no encontrado."}
+{"level":"error","message":"No se pudieron obtener los productos. Carrito no encontrado."}
+{"level":"error","message":"No se pudieron obtener los productos. Carrito no encontrado."}
+{"level":"error","message":"No se pudieron obtener los productos. Carrito no encontrado."}
+{"level":"error","message":"Ruta: /api/productos método:POST no autorizada."}
+{"level":"error","message":"Ruta: /api/productos método:POST no autorizada."}
+{"level":"error","message":"Ruta: /api/productos método:POST no autorizada."}
+{"level":"error","message":"Ruta: /api/productos método:DELETE no autorizada."}
+{"level":"error","message":"Ruta: /api/productos método:DELETE no autorizada."}
+{"level":"error","message":"Ruta: /api/productos método:DELETE no autorizada."}
+{"level":"error","message":"Ruta: /api/productos método:DELETE no autorizada."}
+{"level":"error","message":"ContenedorMongoDB-getById(). Error: CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"productos\""}
+{"level":"error","message":"Producto no encontrado."}
+{"level":"error","message":"ContenedorMongoDB-getById(). Error: CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"productos\""}
+{"level":"error","message":"Producto no encontrado."}
+{"level":"error","message":"ContenedorMongoDB-getById(). Error: CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"productos\""}
+{"level":"error","message":"Producto no encontrado."}
+{"level":"error","message":"ContenedorMongoDB-getById(). Error: CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"productos\""}
+{"level":"error","message":"Producto no encontrado."}
+{"level":"error","message":"Ruta: /api/productos método:POST no autorizada."}
+{"level":"error","message":"ContenedorMongoDB-getById(). Error: CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"productos\""}
+{"level":"error","message":"Producto no encontrado."}
+{"level":"error","message":"Ruta: /api/productos método:POST no autorizada."}
+{"level":"error","message":"Producto a agregar con formato inválido."}
+{"level":"error","message":"ContenedorMongoDB-getById(). Error: CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"productos\""}
+{"level":"error","message":"Producto no encontrado."}
+{"level":"error","message":"Ruta: /api/productos método:POST no autorizada."}
+{"level":"error","message":"Producto a agregar con formato inválido."}
+{"level":"error","message":"Ruta: /api/productos método:POST no autorizada."}
+{"level":"error","message":"ContenedorMongoDB-getById(). Error: CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"productos\""}
+{"level":"error","message":"Producto no encontrado."}
+{"level":"error","message":"Ruta: /api/productos método:POST no autorizada."}
+{"level":"error","message":"Producto a agregar con formato inválido."}
+{"level":"error","message":"ContenedorMongoDB-getById(). Error: CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"productos\""}
+{"level":"error","message":"Producto no encontrado."}
+{"level":"error","message":"Ruta: /api/productos método:POST no autorizada."}
+{"level":"error","message":"Producto a agregar con formato inválido."}
+{"level":"error","message":"Producto no encontrado. No se pudo actualizar."}
+{"level":"error","message":"ContenedorMongoDB-getById(). Error: CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"productos\""}
+{"level":"error","message":"Producto no encontrado."}
+{"level":"error","message":"Ruta: /api/productos método:POST no autorizada."}
+{"level":"error","message":"Producto a agregar con formato inválido."}
+{"level":"error","message":"ContenedorMongoDB-getById(). Error: CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"productos\""}
+{"level":"error","message":"Producto no encontrado."}
+{"level":"error","message":"Ruta: /api/productos método:POST no autorizada."}
+{"level":"error","message":"Producto a agregar con formato inválido."}
